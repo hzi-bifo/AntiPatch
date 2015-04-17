@@ -1,0 +1,259 @@
+f0dp0	AAA43145	A/duck/33/1980	H3	1980	avian	gi|324086|gb|AAA43145| /Avian/HA/H3/4/Japan/1980/// hemagglutinin precursor [Influenza A virus (A/duck/33/1980(H3))]	1980/00/00/
+f0dp1	AAA18781	A/Philippines/2/1982	H3N2	1982	human	gi|497236|gb|AAA18781| /Human/HA/H3N2/4/Philippines/1982/// hemagglutinins HA1 and HA2 precursor[Influenza A virus (A/Philippines/2/1982(H3N2))]	1982/00/00/
+f0dp2	CAA86540	A/England/7/1994	H3N2	1994	human	gi|609048|gb|CAA86540| /Human/HA/H3N2/4/United Kingdom/1994/// haemagglutinin [Influenza A virus (A/England/7/1994(H3N2))]	1994/00/00/
+f0dp3	CAA86541	A/Guangdong/25/1993	H3N2	1993	human	gi|609050|gb|CAA86541| /Human/HA/H3N2/4/China/1993/// haemagglutinin [Influenza A virus (A/Guangdong/25/1993(H3N2))]	1993/00/00/
+f0dp4	CAA86543	A/Hong Kong/2/1994	H3N2	1994	human	gi|609056|gb|CAA86543| /Human/HA/H3N2/4/Hong Kong/1994/// haemagglutinin [Influenza A virus (A/Hong Kong/2/1994(H3N2))]	1994/00/00/
+f0dp5	CAA86548	A/Scotland/142/1993	H3N2	1993	human	gi|609060|gb|CAA86548| /Human/HA/H3N2/4/United Kingdom/1993/// haemagglutinin [Influenza A virus (A/Scotland/142/1993(H3N2))]	1993/00/00/
+f0dp6	CAA86549	A/Scotland/160/1993	H3N2	1993	human	gi|609062|gb|CAA86549| /Human/HA/H3N2/4/United Kingdom/1993/// haemagglutinin [Influenza A virus (A/Scotland/160/1993(H3N2))]	1993/00/00/
+f0dp7	AAB66732	A/Guizhou/54/89	H3N2	1989	human	gi|2271055|gb|AAB66732| /Human/HA/H3N2/4/China/1989/// hemagglutinin[Influenza A virus (A/Guizhou/54/89(H3N2))]	1989/00/00/
+f0dp8	AAB66764	A/Victoria/68/92	H3N2	1992	human	gi|2271119|gb|AAB66764| /Human/HA/H3N2/4/Australia/1992/// hemagglutinin[Influenza A virus (A/Victoria/68/92(H3N2))]	1992/00/00/
+f0dp9	AAB66778	A/Hong_Kong/357/96	H3N2	1996	human	gi|2271147|gb|AAB66778| /Human/HA/H3N2/4/Hong Kong/1996/// hemagglutinin[Influenza A virus (A/Hong_Kong/357/96(H3N2))]	1996/00/00/
+f0dp10	AAB66792	A/Nanchang/933/95	H3N2	1995	human	gi|2271175|gb|AAB66792| /Human/HA/H3N2/4/China/1995/// hemagglutinin[Influenza A virus (A/Nanchang/933/95(H3N2))]	1995/00/00/
+f0dp11	AAB63692	A/Hong_Kong/3/95	H3N2	1995	human	gi|2271235|gb|AAB63692| /Human/HA/H3N2/4/Hong Kong/1995/// hemagglutinin gene[Influenza A virus (A/Hong_Kong/3/95(H3N2))]	1995/00/00/
+f0dp12	AAB63706	A/Hong_Kong/42/96	H3N2	1996	human	gi|2271263|gb|AAB63706| /Human/HA/H3N2/4/Hong Kong/1996/// hemagglutinin gene[Influenza A virus (A/Hong_Kong/42/96(H3N2))]	1996/00/00/
+f0dp13	AAB69809	A/Caen/1/84	H3N2	1984	human	gi|2275475|gb|AAB69809| /Human/HA/H3N2/4/France/1984/// hemagglutinin[Influenza A virus (A/Caen/1/84(H3N2))]	1984/00/00/
+f0dp14	AAB69826	A/Sichuan/2/1987	H3N2	1987	human	gi|2275509|gb|AAB69826| /Human/HA/H3N2/4/China/1987/// hemagglutinin[Influenza A virus (A/Sichuan/2/1987(H3N2))]	1987/00/00/
+f0dp15	AAB69828	A/Shanghai/11/1987	H3N2	1987	human	gi|2275513|gb|AAB69828| /Human/HA/H3N2/4/China/1987/// hemagglutinin[Influenza A virus (A/Shanghai/11/1987(H3N2))]	1987/00/00/
+f0dp16	AAB69830	A/Victoria/7/1987	H3N2	1987	human	gi|2275517|gb|AAB69830| /Human/HA/H3N2/4/Australia/1987/// hemagglutinin[Influenza A virus (A/Victoria/7/1987(H3N2))]	1987/00/00/
+f0dp17	AAB69845	A/Leningrad/360/1986	H3N2	1986	human	gi|2275547|gb|AAB69845| /Human/HA/H3N2/4/Russia/1986/// hemagglutinin[Influenza A virus (A/Leningrad/360/1986(H3N2))]	1986/00/00/
+f0dp18	AAB69847	A/Christchurch/2/1988	H3N2	1988	human	gi|2275551|gb|AAB69847| /Human/HA/H3N2/4/New Zealand/1988/// hemagglutinin[Influenza A virus (A/Christchurch/2/1988(H3N2))]	1988/00/00/
+f0dp19	AAC78096	A/Port Chalmers/1/1973	H3N2	1973	human	gi|3885872|gb|AAC78096| /Human/HA/H3N2/4/New Zealand/1973/// hemagglutinin[Influenza A virus (A/Port Chalmers/1/1973(H3N2))]	1973/00/00/
+f0dp20	BAA21070	A/Beijing/352/1989	H3N2	1989	human	gi|4433070|gb|BAA21070| /Human/HA/H3N2/4/China/1989/// hemagglutinin [Influenza A virus (A/Beijing/352/1989(H3N2))]	1989/00/00/
+f0dp21	AAF06949	A/Lyon/1781/96 	H3N2	1996	human	gi|6318564|gb|AAF06949| /Human/HA/H3N2/4/France/1996/// hemagglutinin HA1 domain[Influenza A virus (A/Lyon/1781/96 (H3N2))]	1996/00/00/
+f0dp22	AAF13705	A/Hong Kong/1/1968	H3N2	1968	human	gi|6470273|gb|AAF13705| /Human/HA/H3N2/4/Hong Kong/1968/// hemagglutinin[Influenza A virus (A/Hong Kong/1/1968(H3N2))]	1968/00/00/
+f0dp23	AAF16422	A/Hong Kong/434/96	H3N2	1996	human	gi|6552616|gb|AAF16422| /Human/HA/H3N2/4/Hong Kong/1996/// hemagglutinin[Influenza A virus (A/Hong Kong/434/96(H3N2))]	1996/00/00/
+f0dp24	AAF16454	A/Hong Kong/358/96	H3N2	1996	human	gi|6552648|gb|AAF16454| /Human/HA/H3N2/4/Hong Kong/1996/// hemagglutinin[Influenza A virus (A/Hong Kong/358/96(H3N2))]	1996/00/00/
+f0dp25	AAF16495	A/Johannesburg/10/97	H3N2	1997	human	gi|6552689|gb|AAF16495| /Human/HA/H3N2/4/South Africa/1997/// hemagglutinin[Influenza A virus (A/Johannesburg/10/97(H3N2))]	1997/00/00/
+f0dp26	AAK54149	A/Oslo/21/97 	H3N2	1997	human	gi|14133840|gb|AAK54149| /Human/HA/H3N2/4/Norway/1997/// hemagglutinin[Influenza A virus (A/Oslo/21/97 (H3N2))]	1997/00/00/
+f0dp27	AAK54151	A/Oslo/244/97 	H3N2	1997	human	gi|14133846|gb|AAK54151| /Human/HA/H3N2/4/Norway/1997/// hemagglutinin[Influenza A virus (A/Oslo/244/97 (H3N2))]	1997/00/00/
+f0dp28	AAT64666	A/Bilthoven/16398/68	H3N2	1968	human	gi|49338953|gb|AAT64666| /Human/HA/H3N2/4/Netherlands/1968/// hemagglutinin[Influenza A virus (A/Bilthoven/16398/68(H3N2))]	1968/00/00/
+f0dp29	AAT64667	A/Bilthoven/908/69	H3N2	1969	human	gi|49338955|gb|AAT64667| /Human/HA/H3N2/4/Netherlands/1969/// hemagglutinin[Influenza A virus (A/Bilthoven/908/69(H3N2))]	1969/00/00/
+f0dp30	AAT64668	A/Bilthoven/17938/69	H3N2	1969	human	gi|49338957|gb|AAT64668| /Human/HA/H3N2/4/Netherlands/1969/// hemagglutinin[Influenza A virus (A/Bilthoven/17938/69(H3N2))]	1969/00/00/
+f0dp31	AAT64669	A/Bilthoven/93/70	H3N2	1970	human	gi|49338959|gb|AAT64669| /Human/HA/H3N2/4/Netherlands/1970/// hemagglutinin[Influenza A virus (A/Bilthoven/93/70(H3N2))]	1970/00/00/
+f0dp32	AAT64670	A/Bilthoven/2668/70	H3N2	1970	human	gi|49338961|gb|AAT64670| /Human/HA/H3N2/4/Netherlands/1970/// hemagglutinin[Influenza A virus (A/Bilthoven/2668/70(H3N2))]	1970/00/00/
+f0dp33	AAT64671	A/Bilthoven/6449/71	H3N2	1971	human	gi|49338963|gb|AAT64671| /Human/HA/H3N2/4/Netherlands/1971/// hemagglutinin[Influenza A virus (A/Bilthoven/6449/71(H3N2))]	1971/00/00/
+f0dp34	AAT64672	A/Bilthoven/21438/71	H3N2	1971	human	gi|49338965|gb|AAT64672| /Human/HA/H3N2/4/Netherlands/1971/// hemagglutinin[Influenza A virus (A/Bilthoven/21438/71(H3N2))]	1971/00/00/
+f0dp35	AAT64673	A/Bilthoven/21801/71	H3N2	1971	human	gi|49338967|gb|AAT64673| /Human/HA/H3N2/4/Netherlands/1971/// hemagglutinin[Influenza A virus (A/Bilthoven/21801/71(H3N2))]	1971/00/00/
+f0dp36	AAT64674	A/Bilthoven/6022/72	H3N2	1972	human	gi|49338969|gb|AAT64674| /Human/HA/H3N2/4/Netherlands/1972/// hemagglutinin[Influenza A virus (A/Bilthoven/6022/72(H3N2))]	1972/00/00/
+f0dp37	AAT64675	A/Bilthoven/23290/72	H3N2	1972	human	gi|49338971|gb|AAT64675| /Human/HA/H3N2/4/Netherlands/1972/// hemagglutinin[Influenza A virus (A/Bilthoven/23290/72(H3N2))]	1972/00/00/
+f0dp38	AAT64676	A/Bilthoven/23337/72	H3N2	1972	human	gi|49338973|gb|AAT64676| /Human/HA/H3N2/4/Netherlands/1972/// hemagglutinin[Influenza A virus (A/Bilthoven/23337/72(H3N2))]	1972/00/00/
+f0dp39	AAT64677	A/Bilthoven/552/73	H3N2	1973	human	gi|49338975|gb|AAT64677| /Human/HA/H3N2/4/Netherlands/1973/// hemagglutinin[Influenza A virus (A/Bilthoven/552/73(H3N2))]	1973/00/00/
+f0dp40	AAT64678	A/Bilthoven/748/73	H3N2	1973	human	gi|49338977|gb|AAT64678| /Human/HA/H3N2/4/Netherlands/1973/// hemagglutinin[Influenza A virus (A/Bilthoven/748/73(H3N2))]	1973/00/00/
+f0dp41	AAT64679	A/Bilthoven/3517/73	H3N2	1973	human	gi|49338979|gb|AAT64679| /Human/HA/H3N2/4/Netherlands/1973/// hemagglutinin[Influenza A virus (A/Bilthoven/3517/73(H3N2))]	1973/00/00/
+f0dp42	AAT64680	A/Bilthoven/9459/74	H3N2	1974	human	gi|49338981|gb|AAT64680| /Human/HA/H3N2/4/Netherlands/1974/// hemagglutinin[Influenza A virus (A/Bilthoven/9459/74(H3N2))]	1974/00/00/
+f0dp43	AAT64681	A/Bilthoven/1761/76	H3N2	1976	human	gi|49338983|gb|AAT64681| /Human/HA/H3N2/4/Netherlands/1976/// hemagglutinin[Influenza A virus (A/Bilthoven/1761/76(H3N2))]	1976/00/00/
+f0dp44	AAT64682	A/Bilthoven/2271/76	H3N2	1976	human	gi|49338985|gb|AAT64682| /Human/HA/H3N2/4/Netherlands/1976/// hemagglutinin[Influenza A virus (A/Bilthoven/2271/76(H3N2))]	1976/00/00/
+f0dp45	AAT64683	A/Bilthoven/5029/76	H3N2	1976	human	gi|49338987|gb|AAT64683| /Human/HA/H3N2/4/Netherlands/1976/// hemagglutinin[Influenza A virus (A/Bilthoven/5029/76(H3N2))]	1976/00/00/
+f0dp46	AAT64684	A/Bilthoven/5657/76	H3N2	1976	human	gi|49338989|gb|AAT64684| /Human/HA/H3N2/4/Netherlands/1976/// hemagglutinin[Influenza A virus (A/Bilthoven/5657/76(H3N2))]	1976/00/00/
+f0dp47	AAT64685	A/Bilthoven/6545/76	H3N2	1976	human	gi|49338991|gb|AAT64685| /Human/HA/H3N2/4/Netherlands/1976/// hemagglutinin[Influenza A virus (A/Bilthoven/6545/76(H3N2))]	1976/00/00/
+f0dp48	AAT64686	A/Bilthoven/3895/77	H3N2	1977	human	gi|49338993|gb|AAT64686| /Human/HA/H3N2/4/Netherlands/1977/// hemagglutinin[Influenza A virus (A/Bilthoven/3895/77(H3N2))]	1977/00/00/
+f0dp49	AAT64687	A/Rotterdam/5828/77	H3N2	1977	human	gi|49338995|gb|AAT64687| /Human/HA/H3N2/4/Netherlands/1977/// hemagglutinin[Influenza A virus (A/Rotterdam/5828/77(H3N2))]	1977/00/00/
+f0dp50	AAT64688	A/Rotterdam/8179/77	H3N2	1977	human	gi|49338997|gb|AAT64688| /Human/HA/H3N2/4/Netherlands/1977/// hemagglutinin[Influenza A virus (A/Rotterdam/8179/77(H3N2))]	1977/00/00/
+f0dp51	AAT64689	A/Bilthoven/4791/81	H3N2	1981	human	gi|49338999|gb|AAT64689| /Human/HA/H3N2/4/Netherlands/1981/// hemagglutinin[Influenza A virus (A/Bilthoven/4791/81(H3N2))]	1981/00/00/
+f0dp52	AAT64690	A/Bilthoven/10684/82	H3N2	1982	human	gi|49339001|gb|AAT64690| /Human/HA/H3N2/4/Netherlands/1982/// hemagglutinin[Influenza A virus (A/Bilthoven/10684/82(H3N2))]	1982/00/00/
+f0dp53	AAT64691	A/Oslo/13676/83	H3N2	1983	human	gi|49339003|gb|AAT64691| /Human/HA/H3N2/4/Norway/1983/// hemagglutinin[Influenza A virus (A/Oslo/13676/83(H3N2))]	1983/00/00/
+f0dp54	AAT64692	A/Bilthoven/5931/74	H3N2	1974	human	gi|49339005|gb|AAT64692| /Human/HA/H3N2/4/Netherlands/1974/// hemagglutinin[Influenza A virus (A/Bilthoven/5931/74(H3N2))]	1974/00/00/
+f0dp55	AAT64693	A/Bilthoven/5146/74	H3N2	1974	human	gi|49339007|gb|AAT64693| /Human/HA/H3N2/4/Netherlands/1974/// hemagglutinin[Influenza A virus (A/Bilthoven/5146/74(H3N2))]	1974/00/00/
+f0dp56	AAT64694	A/Moscow/10/1999	H3N2	1999	human	gi|49339009|gb|AAT64694| /Human/HA/H3N2/4/Russia/1999/// hemagglutinin[Influenza A virus (A/Moscow/10/1999(H3N2))]	1999/00/00/
+f0dp57	AAT64695	A/Netherlands/18/94	H3N2	1994	human	gi|49339011|gb|AAT64695| /Human/HA/H3N2/4/Netherlands/1994/// hemagglutinin[Influenza A virus (A/Netherlands/18/94(H3N2))]	1994/00/00/
+f0dp58	AAT64696	A/Netherlands/3/00	H3N2	2000	human	gi|49339013|gb|AAT64696| /Human/HA/H3N2/4/Netherlands/2000/// hemagglutinin[Influenza A virus (A/Netherlands/3/00(H3N2))]	2000/00/00/
+f0dp59	AAT64697	A/Netherlands/118/01	H3N2	2001	human	gi|49339015|gb|AAT64697| /Human/HA/H3N2/4/Netherlands/2001/// hemagglutinin[Influenza A virus (A/Netherlands/118/01(H3N2))]	2001/00/00/
+f0dp60	AAT64698	A/Netherlands/124/01	H3N2	2001	human	gi|49339017|gb|AAT64698| /Human/HA/H3N2/4/Netherlands/2001/// hemagglutinin[Influenza A virus (A/Netherlands/124/01(H3N2))]	2001/00/00/
+f0dp61	AAT64699	A/Netherlands/126/2001	H3N2	2001	human	gi|49339019|gb|AAT64699| /Human/HA/H3N2/4/Netherlands/2001/// hemagglutinin[Influenza A virus (A/Netherlands/126/2001(H3N2))]	2001/00/00/
+f0dp62	AAT64700	A/Netherlands/233/82	H3N2	1982	human	gi|49339021|gb|AAT64700| /Human/HA/H3N2/4/Netherlands/1982/// hemagglutinin[Influenza A virus (A/Netherlands/233/82(H3N2))]	1982/00/00/
+f0dp63	AAT64701	A/Netherlands/301/99	H3N2	1999	human	gi|49339023|gb|AAT64701| /Human/HA/H3N2/4/Netherlands/1999/// hemagglutinin[Influenza A virus (A/Netherlands/301/99(H3N2))]	1999/00/00/
+f0dp64	AAT64702	A/Bilthoven/7398/74	H3N2	1974	human	gi|49339025|gb|AAT64702| /Human/HA/H3N2/4/Netherlands/1974/// hemagglutinin[Influenza A virus (A/Bilthoven/7398/74(H3N2))]	1974/00/00/
+f0dp65	AAT64703	A/Bilthoven/2813/75	H3N2	1975	human	gi|49339027|gb|AAT64703| /Human/HA/H3N2/4/Netherlands/1975/// hemagglutinin[Influenza A virus (A/Bilthoven/2813/75(H3N2))]	1975/00/00/
+f0dp66	AAT64704	A/Netherlands/738/89	H3N2	1989	human	gi|49339029|gb|AAT64704| /Human/HA/H3N2/4/Netherlands/1989/// hemagglutinin[Influenza A virus (A/Netherlands/738/89(H3N2))]	1989/00/00/
+f0dp67	AAT64705	A/Netherlands/120/02	H3N2	2002	human	gi|49339031|gb|AAT64705| /Human/HA/H3N2/4/Netherlands/2002/// hemagglutinin[Influenza A virus (A/Netherlands/120/02(H3N2))]	2002/00/00/
+f0dp68	AAT64706	A/Netherlands/1/02	H3N2	2002	human	gi|49339033|gb|AAT64706| /Human/HA/H3N2/4/Netherlands/2002/// hemagglutinin[Influenza A virus (A/Netherlands/1/02(H3N2))]	2002/00/00/
+f0dp69	AAT64707	A/Finland/170/2003	H3N2	2003	human	gi|49339035|gb|AAT64707| /Human/HA/H3N2/4/Finland/2003/// hemagglutinin[Influenza A virus (A/Finland/170/2003(H3N2))]	2003/00/00/
+f0dp70	AAT64708	A/Netherlands/20/2003	H3N2	2003	human	gi|49339037|gb|AAT64708| /Human/HA/H3N2/4/Netherlands/2003/// hemagglutinin[Influenza A virus (A/Netherlands/20/2003(H3N2))]	2003/00/00/
+f0dp71	AAT64709	A/Netherlands/22/03	H3N2	2003	human	gi|49339039|gb|AAT64709| /Human/HA/H3N2/4/Netherlands/2003/// hemagglutinin[Influenza A virus (A/Netherlands/22/03(H3N2))]	2003/00/00/
+f0dp72	AAT64710	A/Netherlands/213/2003	H3N2	2003	human	gi|49339041|gb|AAT64710| /Human/HA/H3N2/4/Netherlands/2003/// hemagglutinin[Influenza A virus (A/Netherlands/213/2003(H3N2))]	2003/00/00/
+f0dp73	AAT64711	A/Netherlands/217/03	H3N2	2003	human	gi|49339043|gb|AAT64711| /Human/HA/H3N2/4/Netherlands/2003/// hemagglutinin[Influenza A virus (A/Netherlands/217/03(H3N2))]	2003/00/00/
+f0dp74	AAT64712	A/Netherlands/222/03	H3N2	2003	human	gi|49339045|gb|AAT64712| /Human/HA/H3N2/4/Netherlands/2003/// hemagglutinin[Influenza A virus (A/Netherlands/222/03(H3N2))]	2003/00/00/
+f0dp75	AAT64713	A/Bilthoven/15793/68	H3N2	1968	human	gi|49339047|gb|AAT64713| /Human/HA/H3N2/4/Netherlands/1968/// hemagglutinin[Influenza A virus (A/Bilthoven/15793/68(H3N2))]	1968/00/00/
+f0dp76	AAT64714	A/Bilthoven/16190/68	H3N2	1968	human	gi|49339049|gb|AAT64714| /Human/HA/H3N2/4/Netherlands/1968/// hemagglutinin[Influenza A virus (A/Bilthoven/16190/68(H3N2))]	1968/00/00/
+f0dp77	AAT64715	A/Bilthoven/808/69	H3N2	1969	human	gi|49339051|gb|AAT64715| /Human/HA/H3N2/4/Netherlands/1969/// hemagglutinin[Influenza A virus (A/Bilthoven/808/69(H3N2))]	1969/00/00/
+f0dp78	AAT64716	A/Bilthoven/21793/72	H3N2	1972	human	gi|49339053|gb|AAT64716| /Human/HA/H3N2/4/Netherlands/1972/// hemagglutinin[Influenza A virus (A/Bilthoven/21793/72(H3N2))]	1972/00/00/
+f0dp79	AAT64717	A/Bilthoven/5930/74	H3N2	1974	human	gi|49339055|gb|AAT64717| /Human/HA/H3N2/4/Netherlands/1974/// hemagglutinin[Influenza A virus (A/Bilthoven/5930/74(H3N2))]	1974/00/00/
+f0dp80	AAT64718	A/Bilthoven/2600/75	H3N2	1975	human	gi|49339057|gb|AAT64718| /Human/HA/H3N2/4/Netherlands/1975/// hemagglutinin[Influenza A virus (A/Bilthoven/2600/75(H3N2))]	1975/00/00/
+f0dp81	AAT64719	A/Bilthoven/628/76	H3N2	1976	human	gi|49339059|gb|AAT64719| /Human/HA/H3N2/4/Netherlands/1976/// hemagglutinin[Influenza A virus (A/Bilthoven/628/76(H3N2))]	1976/00/00/
+f0dp82	AAT64720	A/Amsterdam/1609/77	H3N2	1977	human	gi|49339061|gb|AAT64720| /Human/HA/H3N2/4/Netherlands/1977/// hemagglutinin[Influenza A virus (A/Amsterdam/1609/77(H3N2))]	1977/00/00/
+f0dp83	AAT64721	A/Rotterdam/577/80	H3N2	1980	human	gi|49339063|gb|AAT64721| /Human/HA/H3N2/4/Netherlands/1980/// hemagglutinin[Influenza A virus (A/Rotterdam/577/80(H3N2))]	1980/00/00/
+f0dp84	AAT64722	A/Netherlands/209/80	H3N2	1980	human	gi|49339065|gb|AAT64722| /Human/HA/H3N2/4/Netherlands/1980/// hemagglutinin[Influenza A virus (A/Netherlands/209/80(H3N2))]	1980/00/00/
+f0dp85	AAT64723	A/Netherlands/241/82	H3N2	1982	human	gi|49339067|gb|AAT64723| /Human/HA/H3N2/4/Netherlands/1982/// hemagglutinin[Influenza A virus (A/Netherlands/241/82(H3N2))]	1982/00/00/
+f0dp86	AAT64724	A/Netherlands/330/85	H3N2	1985	human	gi|49339069|gb|AAT64724| /Human/HA/H3N2/4/Netherlands/1985/// hemagglutinin[Influenza A virus (A/Netherlands/330/85(H3N2))]	1985/00/00/
+f0dp87	AAT64725	A/Wellington/4/85	H3N2	1985	human	gi|49339071|gb|AAT64725| /Human/HA/H3N2/4/New Zealand/1985/// hemagglutinin[Influenza A virus (A/Wellington/4/85(H3N2))]	1985/00/00/
+f0dp88	AAT64726	A/Guildford/V728/85	H3N2	1985	human	gi|49339073|gb|AAT64726| /Human/HA/H3N2/4/United Kingdom/1985/// hemagglutinin[Influenza A virus (A/Guildford/V728/85(H3N2))]	1985/00/00/
+f0dp89	AAT64727	A/Stockholm/10/85	H3N2	1985	human	gi|49339075|gb|AAT64727| /Human/HA/H3N2/4/Sweden/1985/// hemagglutinin[Influenza A virus (A/Stockholm/10/85(H3N2))]	1985/00/00/
+f0dp90	AAT64728	A/Colorado/2/86	H3N2	1986	human	gi|49339077|gb|AAT64728| /Human/HA/H3N2/4/USA/1986/// hemagglutinin[Influenza A virus (A/Colorado/2/86(H3N2))]	1986/00/00/
+f0dp91	AAT64729	A/Netherlands/450/88	H3N2	1988	human	gi|49339079|gb|AAT64729| /Human/HA/H3N2/4/Netherlands/1988/// hemagglutinin[Influenza A virus (A/Netherlands/450/88(H3N2))]	1988/00/00/
+f0dp92	AAT64730	A/England/427/1988	H3N2	1988	human	gi|49339081|gb|AAT64730| /Human/HA/H3N2/4/United Kingdom/1988/// hemagglutinin[Influenza A virus (A/England/427/1988(H3N2))]	1988/00/00/
+f0dp93	AAT64731	A/Stockholm/12/88	H3N2	1988	human	gi|49339083|gb|AAT64731| /Human/HA/H3N2/4/Sweden/1988/// hemagglutinin[Influenza A virus (A/Stockholm/12/88(H3N2))]	1988/00/00/
+f0dp94	AAT64732	A/Geneva/5007/89	H3N2	1989	human	gi|49339085|gb|AAT64732| /Human/HA/H3N2/4/Switzerland/1989/// hemagglutinin[Influenza A virus (A/Geneva/5007/89(H3N2))]	1989/00/00/
+f0dp95	AAT64733	A/Wellington/5/89	H3N2	1989	human	gi|49339087|gb|AAT64733| /Human/HA/H3N2/4/New Zealand/1989/// hemagglutinin[Influenza A virus (A/Wellington/5/89(H3N2))]	1989/00/00/
+f0dp96	AAT64734	A/Hong Kong/1/1989	H3N2	1989	human	gi|49339089|gb|AAT64734| /Human/HA/H3N2/4/Hong Kong/1989/// hemagglutinin[Influenza A virus (A/Hong Kong/1/1989(H3N2))]	1989/00/00/
+f0dp97	AAT64735	A/Singapore/34/89	H3N2	1989	human	gi|49339091|gb|AAT64735| /Human/HA/H3N2/4/Singapore/1989/// hemagglutinin[Influenza A virus (A/Singapore/34/89(H3N2))]	1989/00/00/
+f0dp98	AAT64736	A/Singapore/35/89	H3N2	1989	human	gi|49339093|gb|AAT64736| /Human/HA/H3N2/4/Singapore/1989/// hemagglutinin[Influenza A virus (A/Singapore/35/89(H3N2))]	1989/00/00/
+f0dp99	AAT64737	A/Singapore/36/89	H3N2	1989	human	gi|49339095|gb|AAT64737| /Human/HA/H3N2/4/Singapore/1989/// hemagglutinin[Influenza A virus (A/Singapore/36/89(H3N2))]	1989/00/00/
+f0dp100	AAT64738	A/Singapore/40/89	H3N2	1989	human	gi|49339097|gb|AAT64738| /Human/HA/H3N2/4/Singapore/1989/// hemagglutinin[Influenza A virus (A/Singapore/40/89(H3N2))]	1989/00/00/
+f0dp101	AAT64739	A/Singapore/53/89	H3N2	1989	human	gi|49339099|gb|AAT64739| /Human/HA/H3N2/4/Singapore/1989/// hemagglutinin[Influenza A virus (A/Singapore/53/89(H3N2))]	1989/00/00/
+f0dp102	AAT64740	A/Victoria/1/89	H3N2	1989	human	gi|49339101|gb|AAT64740| /Human/HA/H3N2/4/Australia/1989/// hemagglutinin[Influenza A virus (A/Victoria/1/89(H3N2))]	1989/00/00/
+f0dp103	AAT64741	A/Beijing/353/1989	H3N2	1989	human	gi|49339103|gb|AAT64741| /Human/HA/H3N2/4/China/1989/// hemagglutinin[Influenza A virus (A/Beijing/353/1989(H3N2))]	1989/00/00/
+f0dp104	AAT64742	A/Netherlands/620/89 	H3N2	1989	human	gi|49339105|gb|AAT64742| /Human/HA/H3N2/4/Netherlands/1989/// hemagglutinin[Influenza A virus (A/Netherlands/620/89 (H3N2))]	1989/00/00/
+f0dp105	AAT64743	A/Netherlands/650/89 	H3N2	1989	human	gi|49339107|gb|AAT64743| /Human/HA/H3N2/4/Netherlands/1989/// hemagglutinin[Influenza A virus (A/Netherlands/650/89 (H3N2))]	1989/00/00/
+f0dp106	AAT64744	A/Memphis/2/1990	H3N2	1990	human	gi|49339109|gb|AAT64744| /Human/HA/H3N2/4/USA/1990/// hemagglutinin[Influenza A virus (A/Memphis/2/1990(H3N2))]	1990/00/00/
+f0dp107	AAT64745	A/Memphis/5/1990	H3N2	1990	human	gi|49339111|gb|AAT64745| /Human/HA/H3N2/4/USA/1990/// hemagglutinin[Influenza A virus (A/Memphis/5/1990(H3N2))]	1990/00/00/
+f0dp108	AAT64746	A/Atlanta/211/1989	H3N2	1989	human	gi|49339113|gb|AAT64746| /Human/HA/H3N2/4/USA/1989/// hemagglutinin[Influenza A virus (A/Atlanta/211/1989(H3N2))]	1989/00/00/
+f0dp109	AAT64747	A/Seoul/1/90	H3N2	1990	human	gi|49339115|gb|AAT64747| /Human/HA/H3N2/4/South Korea/1990/// hemagglutinin[Influenza A virus (A/Seoul/1/90(H3N2))]	1990/00/00/
+f0dp110	AAT64748	A/Victoria/2/90	H3N2	1990	human	gi|49339117|gb|AAT64748| /Human/HA/H3N2/4/Australia/1990/// hemagglutinin[Influenza A virus (A/Victoria/2/90(H3N2))]	1990/00/00/
+f0dp111	AAT64749	A/Shanghai/24/1990	H3N2	1990	human	gi|49339119|gb|AAT64749| /Human/HA/H3N2/4/China/1990/// hemagglutinin[Influenza A virus (A/Shanghai/24/1990(H3N2))]	1990/00/00/
+f0dp112	AAT64750	A/England/260/91	H3N2	1991	human	gi|49339121|gb|AAT64750| /Human/HA/H3N2/4/United Kingdom/1991/// hemagglutinin[Influenza A virus (A/England/260/91(H3N2))]	1991/00/00/
+f0dp113	AAT64751	A/Canberra/1/91	H3N2	1991	human	gi|49339123|gb|AAT64751| /Human/HA/H3N2/4/Australia/1991/// hemagglutinin[Influenza A virus (A/Canberra/1/91(H3N2))]	1991/00/00/
+f0dp114	AAT64752	A/Geneva/6447/91	H3N2	1991	human	gi|49339125|gb|AAT64752| /Human/HA/H3N2/4/Switzerland/1991/// hemagglutinin[Influenza A virus (A/Geneva/6447/91(H3N2))]	1991/00/00/
+f0dp115	AAT64753	A/Netherlands/816/91	H3N2	1991	human	gi|49339127|gb|AAT64753| /Human/HA/H3N2/4/Netherlands/1991/// hemagglutinin[Influenza A virus (A/Netherlands/816/91(H3N2))]	1991/00/00/
+f0dp116	AAT64754	A/Madrid/G12/91	H3N2	1991	human	gi|49339129|gb|AAT64754| /Human/HA/H3N2/4/Spain/1991/// hemagglutinin[Influenza A virus (A/Madrid/G12/91(H3N2))]	1991/00/00/
+f0dp117	AAT64755	A/Netherlands/819/92	H3N2	1992	human	gi|49339131|gb|AAT64755| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Netherlands/819/92(H3N2))]	1992/00/00/
+f0dp118	AAT64756	A/England/261/91	H3N2	1991	human	gi|49339133|gb|AAT64756| /Human/HA/H3N2/4/United Kingdom/1991/// hemagglutinin[Influenza A virus (A/England/261/91(H3N2))]	1991/00/00/
+f0dp119	AAT64757	A/Paris/320/92	H3N2	1992	human	gi|49339135|gb|AAT64757| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/320/92(H3N2))]	1992/00/00/
+f0dp120	AAT64758	A/Paris/325/92	H3N2	1992	human	gi|49339137|gb|AAT64758| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/325/92(H3N2))]	1992/00/00/
+f0dp121	AAT64759	A/Paris/407/92	H3N2	1992	human	gi|49339139|gb|AAT64759| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/407/92(H3N2))]	1992/00/00/
+f0dp122	AAT64760	A/Paris/417/92	H3N2	1992	human	gi|49339141|gb|AAT64760| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/417/92(H3N2))]	1992/00/00/
+f0dp123	AAT64761	A/Paris/424/92	H3N2	1992	human	gi|49339143|gb|AAT64761| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/424/92(H3N2))]	1992/00/00/
+f0dp124	AAT64762	A/Paris/457/92	H3N2	1992	human	gi|49339145|gb|AAT64762| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/457/92(H3N2))]	1992/00/00/
+f0dp125	AAT64763	A/Paris/467/92	H3N2	1992	human	gi|49339147|gb|AAT64763| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/467/92(H3N2))]	1992/00/00/
+f0dp126	AAT64764	A/Paris/490/92	H3N2	1992	human	gi|49339149|gb|AAT64764| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/490/92(H3N2))]	1992/00/00/
+f0dp127	AAT64765	A/Paris/512/92	H3N2	1992	human	gi|49339151|gb|AAT64765| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/512/92(H3N2))]	1992/00/00/
+f0dp128	AAT64766	A/Paris/548/92	H3N2	1992	human	gi|49339153|gb|AAT64766| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/548/92(H3N2))]	1992/00/00/
+f0dp129	AAT64767	A/Paris/564/92	H3N2	1992	human	gi|49339155|gb|AAT64767| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/564/92(H3N2))]	1992/00/00/
+f0dp130	AAT64768	A/Paris/583/92	H3N2	1992	human	gi|49339157|gb|AAT64768| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/583/92(H3N2))]	1992/00/00/
+f0dp131	AAT64769	A/Paris/597/92	H3N2	1992	human	gi|49339159|gb|AAT64769| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/597/92(H3N2))]	1992/00/00/
+f0dp132	AAT64770	A/Paris/614/92	H3N2	1992	human	gi|49339161|gb|AAT64770| /Human/HA/H3N2/4/France/1992/// hemagglutinin[Influenza A virus (A/Paris/614/92(H3N2))]	1992/00/00/
+f0dp133	AAT64771	A/Enschede/1285/92	H3N2	1992	human	gi|49339163|gb|AAT64771| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Enschede/1285/92(H3N2))]	1992/00/00/
+f0dp134	AAT64772	A/Netherlands/935/92	H3N2	1992	human	gi|49339165|gb|AAT64772| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Netherlands/935/92(H3N2))]	1992/00/00/
+f0dp135	AAT64773	A/Lyon/1149/91	H3N2	1991	human	gi|49339167|gb|AAT64773| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/1149/91(H3N2))]	1991/00/00/
+f0dp136	AAT64774	A/Lyon/1182/91	H3N2	1991	human	gi|49339169|gb|AAT64774| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/1182/91(H3N2))]	1991/00/00/
+f0dp137	AAT64775	A/Lyon/ons1189/91	H3N2	1991	human	gi|49339171|gb|AAT64775| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/ons1189/91(H3N2))]	1991/00/00/
+f0dp138	AAT64776	A/Lyon/ons1594/91	H3N2	1991	human	gi|49339173|gb|AAT64776| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/ons1594/91(H3N2))]	1991/00/00/
+f0dp139	AAT64777	A/Lyon/ons1373/91	H3N2	1991	human	gi|49339175|gb|AAT64777| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/ons1373/91(H3N2))]	1991/00/00/
+f0dp140	AAT64778	A/Lyon/ons1276/91	H3N2	1991	human	gi|49339177|gb|AAT64778| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/ons1276/91(H3N2))]	1991/00/00/
+f0dp141	AAT64779	A/Lyon/ons1337/91	H3N2	1991	human	gi|49339179|gb|AAT64779| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/ons1337/91(H3N2))]	1991/00/00/
+f0dp142	AAT64780	A/Lyon/chu23672/91	H3N2	1991	human	gi|49339181|gb|AAT64780| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/chu23672/91(H3N2))]	1991/00/00/
+f0dp143	AAT64781	A/Lyon/chu24103/91	H3N2	1991	human	gi|49339183|gb|AAT64781| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/chu24103/91(H3N2))]	1991/00/00/
+f0dp144	AAT64782	A/Lyon/chu24222/91	H3N2	1991	human	gi|49339185|gb|AAT64782| /Human/HA/H3N2/4/France/1991/// hemagglutinin[Influenza A virus (A/Lyon/chu24222/91(H3N2))]	1991/00/00/
+f0dp145	AAT64783	A/Netherlands/823/92 	H3N2	1992	human	gi|49339187|gb|AAT64783| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Netherlands/823/92 (H3N2))]	1992/00/00/
+f0dp146	AAT64784	A/Finland/218/1992	H3N2	1992	human	gi|49339189|gb|AAT64784| /Human/HA/H3N2/4/Finland/1992/// hemagglutinin[Influenza A virus (A/Finland/218/1992(H3N2))]	1992/00/00/
+f0dp147	AAT64785	A/Finland/220/1992	H3N2	1992	human	gi|49339191|gb|AAT64785| /Human/HA/H3N2/4/Finland/1992/// hemagglutinin[Influenza A virus (A/Finland/220/1992(H3N2))]	1992/00/00/
+f0dp148	AAT64786	A/Geneva/5113/92	H3N2	1992	human	gi|49339193|gb|AAT64786| /Human/HA/H3N2/4/Switzerland/1992/// hemagglutinin[Influenza A virus (A/Geneva/5113/92(H3N2))]	1992/00/00/
+f0dp149	AAT64787	A/Rotterdam/100540/92	H3N2	1992	human	gi|49339195|gb|AAT64787| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Rotterdam/100540/92(H3N2))]	1992/00/00/
+f0dp150	AAT64788	A/Nijmegen/3126/92	H3N2	1992	human	gi|49339197|gb|AAT64788| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Nijmegen/3126/92(H3N2))]	1992/00/00/
+f0dp151	AAT64789	A/Nijmegen/3129/92	H3N2	1992	human	gi|49339199|gb|AAT64789| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Nijmegen/3129/92(H3N2))]	1992/00/00/
+f0dp152	AAT64790	A/Amsterdam/4112/92	H3N2	1992	human	gi|49339201|gb|AAT64790| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Amsterdam/4112/92(H3N2))]	1992/00/00/
+f0dp153	AAT64791	A/Tilburg/5957/92	H3N2	1992	human	gi|49339203|gb|AAT64791| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Tilburg/5957/92(H3N2))]	1992/00/00/
+f0dp154	AAT64792	A/Madrid/G58/92	H3N2	1992	human	gi|49339205|gb|AAT64792| /Human/HA/H3N2/4/Spain/1992/// hemagglutinin[Influenza A virus (A/Madrid/G58/92(H3N2))]	1992/00/00/
+f0dp155	AAT64793	A/Madrid/OV31/92	H3N2	1992	human	gi|49339207|gb|AAT64793| /Human/HA/H3N2/4/Spain/1992/// hemagglutinin[Influenza A virus (A/Madrid/OV31/92(H3N2))]	1992/00/00/
+f0dp156	AAT64794	A/Stockholm/20/91	H3N2	1991	human	gi|49339209|gb|AAT64794| /Human/HA/H3N2/4/Sweden/1991/// hemagglutinin[Influenza A virus (A/Stockholm/20/91(H3N2))]	1991/00/00/
+f0dp157	AAT64795	A/Stockholm/7/92	H3N2	1992	human	gi|49339211|gb|AAT64795| /Human/HA/H3N2/4/Sweden/1992/// hemagglutinin[Influenza A virus (A/Stockholm/7/92(H3N2))]	1992/00/00/
+f0dp158	AAT64796	A/Stockholm/8/92	H3N2	1992	human	gi|49339213|gb|AAT64796| /Human/HA/H3N2/4/Sweden/1992/// hemagglutinin[Influenza A virus (A/Stockholm/8/92(H3N2))]	1992/00/00/
+f0dp159	AAT64797	A/Houston/56829/92	H3N2	1992	human	gi|49339215|gb|AAT64797| /Human/HA/H3N2/4/USA/1992/// hemagglutinin[Influenza A virus (A/Houston/56829/92(H3N2))]	1992/00/00/
+f0dp160	AAT64798	A/Houston/56941/92	H3N2	1992	human	gi|49339217|gb|AAT64798| /Human/HA/H3N2/4/USA/1992/// hemagglutinin[Influenza A virus (A/Houston/56941/92(H3N2))]	1992/00/00/
+f0dp161	AAT64799	A/Houston/56798/92	H3N2	1992	human	gi|49339219|gb|AAT64799| /Human/HA/H3N2/4/USA/1992/// hemagglutinin[Influenza A virus (A/Houston/56798/92(H3N2))]	1992/00/00/
+f0dp162	AAT64800	A/Netherlands/938/92	H3N2	1992	human	gi|49339221|gb|AAT64800| /Human/HA/H3N2/4/Netherlands/1992/// hemagglutinin[Influenza A virus (A/Netherlands/938/92(H3N2))]	1992/00/00/
+f0dp163	AAT64801	A/South Australia/8/1992	H3N2	1992	human	gi|49339223|gb|AAT64801| /Human/HA/H3N2/4/Australia/1992/// hemagglutinin[Influenza A virus (A/South Australia/8/1992(H3N2))]	1992/00/00/
+f0dp164	AAT64802	A/South Australia/23/1992	H3N2	1992	human	gi|49339225|gb|AAT64802| /Human/HA/H3N2/4/Australia/1992/// hemagglutinin[Influenza A virus (A/South Australia/23/1992(H3N2))]	1992/00/00/
+f0dp165	AAT64803	A/South Australia/27/1992	H3N2	1992	human	gi|49339227|gb|AAT64803| /Human/HA/H3N2/4/Australia/1992/// hemagglutinin[Influenza A virus (A/South Australia/27/1992(H3N2))]	1992/00/00/
+f0dp166	AAT64804	A/Sendai/C273/92	H3N2	1992	human	gi|49339229|gb|AAT64804| /Human/HA/H3N2/4/Japan/1992/// hemagglutinin[Influenza A virus (A/Sendai/C273/92(H3N2))]	1992/00/00/
+f0dp167	AAT64805	A/Beijing/32/1992	H3N2	1992	human	gi|49339231|gb|AAT64805| /Human/HA/H3N2/4/China/1992/// hemagglutinin[Influenza A virus (A/Beijing/32/1992(H3N2))]	1992/00/00/
+f0dp168	AAT64806	A/Netherlands/3/93	H3N2	1993	human	gi|49339233|gb|AAT64806| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/3/93(H3N2))]	1993/00/00/
+f0dp169	AAT64807	A/Paris/287/93	H3N2	1993	human	gi|49339235|gb|AAT64807| /Human/HA/H3N2/4/France/1993/// hemagglutinin[Influenza A virus (A/Paris/287/93(H3N2))]	1993/00/00/
+f0dp170	AAT64808	A/Netherlands/17/93	H3N2	1993	human	gi|49339237|gb|AAT64808| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/17/93(H3N2))]	1993/00/00/
+f0dp171	AAT64809	A/Umea/1982/92	H3N2	1992	human	gi|49339239|gb|AAT64809| /Human/HA/H3N2/4/Sweden/1992/// hemagglutinin[Influenza A virus (A/Umea/1982/92(H3N2))]	1992/00/00/
+f0dp172	AAT64810	A/Umea/2000/92	H3N2	1992	human	gi|49339241|gb|AAT64810| /Human/HA/H3N2/4/Sweden/1992/// hemagglutinin[Influenza A virus (A/Umea/2000/92(H3N2))]	1992/00/00/
+f0dp173	AAT64811	A/Stockholm/12/92	H3N2	1992	human	gi|49339243|gb|AAT64811| /Human/HA/H3N2/4/Sweden/1992/// hemagglutinin[Influenza A virus (A/Stockholm/12/92(H3N2))]	1992/00/00/
+f0dp174	AAT64812	A/Stockholm/13/92	H3N2	1992	human	gi|49339245|gb|AAT64812| /Human/HA/H3N2/4/Sweden/1992/// hemagglutinin[Influenza A virus (A/Stockholm/13/92(H3N2))]	1992/00/00/
+f0dp175	AAT64813	A/Finland/247/1992	H3N2	1992	human	gi|49339247|gb|AAT64813| /Human/HA/H3N2/4/Finland/1992/// hemagglutinin[Influenza A virus (A/Finland/247/1992(H3N2))]	1992/00/00/
+f0dp176	AAT64814	A/Netherlands/101/93 	H3N2	1993	human	gi|49339249|gb|AAT64814| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/101/93 (H3N2))]	1993/00/00/
+f0dp177	AAT64815	A/Netherlands/115/93 	H3N2	1993	human	gi|49339251|gb|AAT64815| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/115/93 (H3N2))]	1993/00/00/
+f0dp178	AAT64816	A/Netherlands/126/93 	H3N2	1993	human	gi|49339253|gb|AAT64816| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/126/93 (H3N2))]	1993/00/00/
+f0dp179	AAT64817	A/Madrid/G116/93	H3N2	1993	human	gi|49339255|gb|AAT64817| /Human/HA/H3N2/4/Spain/1993/// hemagglutinin[Influenza A virus (A/Madrid/G116/93(H3N2))]	1993/00/00/
+f0dp180	AAT64818	A/Madrid/G101/93	H3N2	1993	human	gi|49339257|gb|AAT64818| /Human/HA/H3N2/4/Spain/1993/// hemagglutinin[Influenza A virus (A/Madrid/G101/93(H3N2))]	1993/00/00/
+f0dp181	AAT64819	A/Madrid/G102/93	H3N2	1993	human	gi|49339259|gb|AAT64819| /Human/HA/H3N2/4/Spain/1993/// hemagglutinin[Influenza A virus (A/Madrid/G102/93(H3N2))]	1993/00/00/
+f0dp182	AAT64820	A/Madrid/G109/93	H3N2	1993	human	gi|49339261|gb|AAT64820| /Human/HA/H3N2/4/Spain/1993/// hemagglutinin[Influenza A virus (A/Madrid/G109/93(H3N2))]	1993/00/00/
+f0dp183	AAT64821	A/Netherlands/165/93 	H3N2	1993	human	gi|49339263|gb|AAT64821| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/165/93 (H3N2))]	1993/00/00/
+f0dp184	AAT64822	A/Madrid/G122/93	H3N2	1993	human	gi|49339265|gb|AAT64822| /Human/HA/H3N2/4/Spain/1993/// hemagglutinin[Influenza A virus (A/Madrid/G122/93(H3N2))]	1993/00/00/
+f0dp185	AAT64823	A/Madrid/G130/93	H3N2	1993	human	gi|49339267|gb|AAT64823| /Human/HA/H3N2/4/Spain/1993/// hemagglutinin[Influenza A virus (A/Madrid/G130/93(H3N2))]	1993/00/00/
+f0dp186	AAT64824	A/Netherlands/179/93	H3N2	1993	human	gi|49339269|gb|AAT64824| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/179/93(H3N2))]	1993/00/00/
+f0dp187	AAT64825	A/Enschede/5458/93	H3N2	1993	human	gi|49339271|gb|AAT64825| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Enschede/5458/93(H3N2))]	1993/00/00/
+f0dp188	AAT64826	A/Madrid/G252/93	H3N2	1993	human	gi|49339273|gb|AAT64826| /Human/HA/H3N2/4/Spain/1993/// hemagglutinin[Influenza A virus (A/Madrid/G252/93(H3N2))]	1993/00/00/
+f0dp189	AAT64827	A/Yamagata/56/93	H3N2	1993	human	gi|49339275|gb|AAT64827| /Human/HA/H3N2/4/Japan/1993/// hemagglutinin[Influenza A virus (A/Yamagata/56/93(H3N2))]	1993/00/00/
+f0dp190	AAT64828	A/Yamagata/61/93	H3N2	1993	human	gi|49339277|gb|AAT64828| /Human/HA/H3N2/4/Japan/1993/// hemagglutinin[Influenza A virus (A/Yamagata/61/93(H3N2))]	1993/00/00/
+f0dp191	AAT64829	A/Yamagata/62/93	H3N2	1993	human	gi|49339279|gb|AAT64829| /Human/HA/H3N2/4/Japan/1993/// hemagglutinin[Influenza A virus (A/Yamagata/62/93(H3N2))]	1993/00/00/
+f0dp192	AAT64830	A/Akita/4/93	H3N2	1993	human	gi|49339281|gb|AAT64830| /Human/HA/H3N2/4/Japan/1993/// hemagglutinin[Influenza A virus (A/Akita/4/93(H3N2))]	1993/00/00/
+f0dp193	AAT64831	A/Shiga/6/93	H3N2	1993	human	gi|49339283|gb|AAT64831| /Human/HA/H3N2/4/Japan/1993/// hemagglutinin[Influenza A virus (A/Shiga/6/93(H3N2))]	1993/00/00/
+f0dp194	AAT64832	A/Victoria/104/93	H3N2	1993	human	gi|49339285|gb|AAT64832| /Human/HA/H3N2/4/Australia/1993/// hemagglutinin[Influenza A virus (A/Victoria/104/93(H3N2))]	1993/00/00/
+f0dp195	AAT64833	A/Wellington/59/93	H3N2	1993	human	gi|49339287|gb|AAT64833| /Human/HA/H3N2/4/New Zealand/1993/// hemagglutinin[Influenza A virus (A/Wellington/59/93(H3N2))]	1993/00/00/
+f0dp196	AAT64834	A/Shangdong/9/1993	H3N2	1993	human	gi|49339289|gb|AAT64834| /Human/HA/H3N2/4/China/1993/// hemagglutinin[Influenza A virus (A/Shangdong/9/1993(H3N2))]	1993/00/00/
+f0dp197	AAT64835	A/Netherlands/241/93	H3N2	1993	human	gi|49339291|gb|AAT64835| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/241/93(H3N2))]	1993/00/00/
+f0dp198	AAT64836	A/Stockholm/20/93	H3N2	1993	human	gi|49339293|gb|AAT64836| /Human/HA/H3N2/4/Sweden/1993/// hemagglutinin[Influenza A virus (A/Stockholm/20/93(H3N2))]	1993/00/00/
+f0dp199	AAT64837	A/Netherlands/357/93	H3N2	1993	human	gi|49339295|gb|AAT64837| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/357/93(H3N2))]	1993/00/00/
+f0dp200	AAT64838	A/Netherlands/372/93	H3N2	1993	human	gi|49339297|gb|AAT64838| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/372/93(H3N2))]	1993/00/00/
+f0dp201	AAT64839	A/Netherlands/371/93 	H3N2	1993	human	gi|49339299|gb|AAT64839| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/371/93 (H3N2))]	1993/00/00/
+f0dp202	AAT64840	A/Netherlands/440/93	H3N2	1993	human	gi|49339301|gb|AAT64840| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/440/93(H3N2))]	1993/00/00/
+f0dp203	AAT64841	A/Netherlands/398/93 	H3N2	1993	human	gi|49339303|gb|AAT64841| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/398/93 (H3N2))]	1993/00/00/
+f0dp204	AAT64842	A/Netherlands/399/93	H3N2	1993	human	gi|49339305|gb|AAT64842| /Human/HA/H3N2/4/Netherlands/1993/// hemagglutinin[Influenza A virus (A/Netherlands/399/93(H3N2))]	1993/00/00/
+f0dp205	AAT64843	A/Lyon/672/93	H3N2	1993	human	gi|49339307|gb|AAT64843| /Human/HA/H3N2/4/France/1993/// hemagglutinin[Influenza A virus (A/Lyon/672/93(H3N2))]	1993/00/00/
+f0dp206	AAT64844	A/Lyon/1803/93	H3N2	1993	human	gi|49339309|gb|AAT64844| /Human/HA/H3N2/4/France/1993/// hemagglutinin[Influenza A virus (A/Lyon/1803/93(H3N2))]	1993/00/00/
+f0dp207	AAT64845	A/Lyon/1815/93	H3N2	1993	human	gi|49339311|gb|AAT64845| /Human/HA/H3N2/4/France/1993/// hemagglutinin[Influenza A virus (A/Lyon/1815/93(H3N2))]	1993/00/00/
+f0dp208	AAT64846	A/Lyon/22686/93	H3N2	1993	human	gi|49339313|gb|AAT64846| /Human/HA/H3N2/4/France/1993/// hemagglutinin[Influenza A virus (A/Lyon/22686/93(H3N2))]	1993/00/00/
+f0dp209	AAT64847	A/Lyon/23602/93	H3N2	1993	human	gi|49339315|gb|AAT64847| /Human/HA/H3N2/4/France/1993/// hemagglutinin[Influenza A virus (A/Lyon/23602/93(H3N2))]	1993/00/00/
+f0dp210	AAT64848	A/Oslo/2219/93	H3N2	1993	human	gi|49339317|gb|AAT64848| /Human/HA/H3N2/4/Norway/1993/// hemagglutinin[Influenza A virus (A/Oslo/2219/93(H3N2))]	1993/00/00/
+f0dp211	AAT64849	A/Oslo/2352/93	H3N2	1993	human	gi|49339319|gb|AAT64849| /Human/HA/H3N2/4/Norway/1993/// hemagglutinin[Influenza A virus (A/Oslo/2352/93(H3N2))]	1993/00/00/
+f0dp212	AAT64850	A/Hong Kong/1/1994	H3N2	1994	human	gi|49339321|gb|AAT64850| /Human/HA/H3N2/4/Hong Kong/1994/// hemagglutinin[Influenza A virus (A/Hong Kong/1/1994(H3N2))]	1994/00/00/
+f0dp213	AAT64851	A/South Australia/15/1994	H3N2	1994	human	gi|49339323|gb|AAT64851| /Human/HA/H3N2/4/Australia/1994/// hemagglutinin[Influenza A virus (A/South Australia/15/1994(H3N2))]	1994/00/00/
+f0dp214	AAT64852	A/South Australia/25/1994	H3N2	1994	human	gi|49339325|gb|AAT64852| /Human/HA/H3N2/4/Australia/1994/// hemagglutinin[Influenza A virus (A/South Australia/25/1994(H3N2))]	1994/00/00/
+f0dp215	AAT64853	A/Hong Kong/56/1994	H3N2	1994	human	gi|49339327|gb|AAT64853| /Human/HA/H3N2/4/Hong Kong/1994/// hemagglutinin[Influenza A virus (A/Hong Kong/56/1994(H3N2))]	1994/00/00/
+f0dp216	AAT64854	A/Johannesburg/47/94	H3N2	1994	human	gi|49339329|gb|AAT64854| /Human/HA/H3N2/4/South Africa/1994/// hemagglutinin[Influenza A virus (A/Johannesburg/47/94(H3N2))]	1994/00/00/
+f0dp217	AAT64855	A/Johannesburg/33/1994	H3N2	1994	human	gi|49339331|gb|AAT64855| /Human/HA/H3N2/4/South Africa/1994/// hemagglutinin[Influenza A virus (A/Johannesburg/33/1994(H3N2))]	1994/00/00/
+f0dp218	AAT64856	A/Netherlands/1/95	H3N2	1995	human	gi|49339333|gb|AAT64856| /Human/HA/H3N2/4/Netherlands/1995/// hemagglutinin[Influenza A virus (A/Netherlands/1/95(H3N2))]	1995/00/00/
+f0dp219	AAT64857	A/Geneva/AI9509/95	H3N2	1995	human	gi|49339335|gb|AAT64857| /Human/HA/H3N2/4/Switzerland/1995/// hemagglutinin[Influenza A virus (A/Geneva/AI9509/95(H3N2))]	1995/00/00/
+f0dp220	AAT64858	A/Finland/338/1995 	H3N2	1995	human	gi|49339337|gb|AAT64858| /Human/HA/H3N2/4/Finland/1995/// hemagglutinin[Influenza A virus (A/Finland/338/1995 (H3N2))]	1995/00/00/
+f0dp221	AAT64859	A/Finland/339/1995	H3N2	1995	human	gi|49339339|gb|AAT64859| /Human/HA/H3N2/4/Finland/1995/// hemagglutinin[Influenza A virus (A/Finland/339/1995(H3N2))]	1995/00/00/
+f0dp222	AAT64860	A/Hong Kong/32/1995	H3N2	1995	human	gi|49339341|gb|AAT64860| /Human/HA/H3N2/4/Hong Kong/1995/// hemagglutinin[Influenza A virus (A/Hong Kong/32/1995(H3N2))]	1995/00/00/
+f0dp223	AAT64861	A/Hong Kong/38/1995	H3N2	1995	human	gi|49339343|gb|AAT64861| /Human/HA/H3N2/4/Hong Kong/1995/// hemagglutinin[Influenza A virus (A/Hong Kong/38/1995(H3N2))]	1995/00/00/
+f0dp224	AAT64862	A/Hong Kong/49/1995	H3N2	1995	human	gi|49339345|gb|AAT64862| /Human/HA/H3N2/4/Hong Kong/1995/// hemagglutinin[Influenza A virus (A/Hong Kong/49/1995(H3N2))]	1995/00/00/
+f0dp225	AAT64863	A/Victoria/75/95	H3N2	1995	human	gi|49339347|gb|AAT64863| /Human/HA/H3N2/4/Australia/1995/// hemagglutinin[Influenza A virus (A/Victoria/75/95(H3N2))]	1995/00/00/
+f0dp226	AAT64864	A/Hong Kong/55/1995	H3N2	1995	human	gi|49339349|gb|AAT64864| /Human/HA/H3N2/4/Hong Kong/1995/// hemagglutinin[Influenza A virus (A/Hong Kong/55/1995(H3N2))]	1995/00/00/
+f0dp227	AAT64865	A/Wuhan/359/1995	H3N2	1995	human	gi|49339351|gb|AAT64865| /Human/HA/H3N2/4/China/1995/// hemagglutinin[Influenza A virus (A/Wuhan/359/1995(H3N2))]	1995/00/00/
+f0dp228	AAT64866	A/Netherlands/271/95	H3N2	1995	human	gi|49339353|gb|AAT64866| /Human/HA/H3N2/4/Netherlands/1995/// hemagglutinin[Influenza A virus (A/Netherlands/271/95(H3N2))]	1995/00/00/
+f0dp229	AAT64867	A/Lyon/2279/95	H3N2	1995	human	gi|49339355|gb|AAT64867| /Human/HA/H3N2/4/France/1995/// hemagglutinin[Influenza A virus (A/Lyon/2279/95(H3N2))]	1995/00/00/
+f0dp230	AAT64868	A/Hong Kong/20/1996	H3N2	1996	human	gi|49339357|gb|AAT64868| /Human/HA/H3N2/4/Hong Kong/1996/// hemagglutinin[Influenza A virus (A/Hong Kong/20/1996(H3N2))]	1996/00/00/
+f0dp231	AAT64869	A/Netherlands/91/96	H3N2	1996	human	gi|49339359|gb|AAT64869| /Human/HA/H3N2/4/Netherlands/1996/// hemagglutinin[Influenza A virus (A/Netherlands/91/96(H3N2))]	1996/00/00/
+f0dp232	AAT64870	A/Geneva/3958/96	H3N2	1996	human	gi|49339361|gb|AAT64870| /Human/HA/H3N2/4/Switzerland/1996/// hemagglutinin[Influenza A virus (A/Geneva/3958/96(H3N2))]	1996/00/00/
+f0dp233	AAT64871	A/Finland/381/1995	H3N2	1995	human	gi|49339363|gb|AAT64871| /Human/HA/H3N2/4/Finland/1995/// hemagglutinin[Influenza A virus (A/Finland/381/1995(H3N2))]	1995/00/00/
+f0dp234	AAT64872	A/Brisbane/8/96	H3N2	1996	human	gi|49339365|gb|AAT64872| /Human/HA/H3N2/4/Australia/1996/// hemagglutinin[Influenza A virus (A/Brisbane/8/96(H3N2))]	1996/00/00/
+f0dp235	AAT64873	A/Singapore/1/96	H3N2	1996	human	gi|49339367|gb|AAT64873| /Human/HA/H3N2/4/Singapore/1996/// hemagglutinin[Influenza A virus (A/Singapore/1/96(H3N2))]	1996/00/00/
+f0dp236	AAT64876	A/Auckland/10/97	H3N2	1997	human	gi|49339373|gb|AAT64876| /Human/HA/H3N2/4/New Zealand/1997/// hemagglutinin[Influenza A virus (A/Auckland/10/97(H3N2))]	1997/00/00/
+f0dp237	AAT64877	A/Hong Kong/1/1997	H3N2	1997	human	gi|49339375|gb|AAT64877| /Human/HA/H3N2/4/Hong Kong/1997/// hemagglutinin[Influenza A virus (A/Hong Kong/1/1997(H3N2))]	1997/00/00/
+f0dp238	AAT64878	A/Hong Kong/280/97	H3N2	1997	human	gi|49339377|gb|AAT64878| /Human/HA/H3N2/4/Hong Kong/1997/// hemagglutinin[Influenza A virus (A/Hong Kong/280/97(H3N2))]	1997/00/00/
+f0dp239	AAT64879	A/Hong Kong/55/1994	H3N2	1994	human	gi|49339379|gb|AAT64879| /Human/HA/H3N2/4/Hong Kong/1994/// hemagglutinin[Influenza A virus (A/Hong Kong/55/1994(H3N2))]	1994/00/00/
+f0dp240	AAT64880	A/Netherlands/300/97	H3N2	1997	human	gi|49339381|gb|AAT64880| /Human/HA/H3N2/4/Netherlands/1997/// hemagglutinin[Influenza A virus (A/Netherlands/300/97(H3N2))]	1997/00/00/
+f0dp241	AAT64881	A/Netherlands/414/98	H3N2	1998	human	gi|49339383|gb|AAT64881| /Human/HA/H3N2/4/Netherlands/1998/// hemagglutinin[Influenza A virus (A/Netherlands/414/98(H3N2))]	1998/00/00/
+f0dp242	AAT64882	A/Netherlands/427/98	H3N2	1998	human	gi|49339385|gb|AAT64882| /Human/HA/H3N2/4/Netherlands/1998/// hemagglutinin[Influenza A virus (A/Netherlands/427/98(H3N2))]	1998/00/00/
+f0dp243	AAT64883	A/Netherlands/462/98	H3N2	1998	human	gi|49339387|gb|AAT64883| /Human/HA/H3N2/4/Netherlands/1998/// hemagglutinin[Influenza A virus (A/Netherlands/462/98(H3N2))]	1998/00/00/
+f0dp244	AAT64884	A/Netherlands/5/98	H3N2	1998	human	gi|49339389|gb|AAT64884| /Human/HA/H3N2/4/Netherlands/1998/// hemagglutinin[Influenza A virus (A/Netherlands/5/98(H3N2))]	1998/00/00/
+f0dp245	AAT64885	A/Nice/491/97	H3N2	1997	human	gi|49339391|gb|AAT64885| /Human/HA/H3N2/4/France/1997/// hemagglutinin[Influenza A virus (A/Nice/491/97(H3N2))]	1997/00/00/
+f0dp246	AAT64886	A/Singapore/3/93	H3N2	1993	human	gi|49339393|gb|AAT64886| /Human/HA/H3N2/4/Singapore/1993/// hemagglutinin[Influenza A virus (A/Singapore/3/93(H3N2))]	1993/00/00/
+f0dp247	ABP51971	A/Fujian/411/2002	H3N2	2002	human	gi|145284454|gb|ABP51971| /Human/HA/H3N2/4/China/2002/08/11/ hemagglutinin[Influenza A virus (A/Fujian/411/2002(H3N2))]	2002/08/11/
+f0dp248	ABQ10136	A/Sydney/5/1997	H3N2	1997	human	gi|146216851|gb|ABQ10136| /Human/HA/H3N2/4/Australia/1997/06/29/ hemagglutinin[Influenza A virus (A/Sydney/5/1997(H3N2))]	1997/06/29/
+f0dp249	ABQ58926	A/Victoria/3/1975	H3N2	1975	human	gi|148340561|gb|ABQ58926| /Human/HA/H3N2/4/Australia/1975/// hemagglutinin[Influenza A virus (A/Victoria/3/1975(H3N2))]	1975/00/00/
+f0dp250	ABQ58927	A/Bangkok/1/1979	H3N2	1979	human	gi|148340563|gb|ABQ58927| /Human/HA/H3N2/4/Thailand/1979/// hemagglutinin[Influenza A virus (A/Bangkok/1/1979(H3N2))]	1979/00/00/
+f0dp251	ABQ58929	A/Panama/2007/1999	H3N2	1999	human	gi|148340567|gb|ABQ58929| /Human/HA/H3N2/4/Panama/1999/// hemagglutinin[Influenza A virus (A/Panama/2007/1999(H3N2))]	1999/00/00/
+f0dp252	ABQ58930	A/England/42/1972	H3N2	1972	human	gi|148340569|gb|ABQ58930| /Human/HA/H3N2/4/United Kingdom/1972/// hemagglutinin[Influenza A virus (A/England/42/1972(H3N2))]	1972/00/00/
+f0dp253	ABQ58932	A/Hong Kong/107/1971	H3N2	1971	human	gi|148340573|gb|ABQ58932| /Human/HA/H3N2/4/Hong Kong/1971/// hemagglutinin[Influenza A virus (A/Hong Kong/107/1971(H3N2))]	1971/00/00/
+f0dp254	ABQ58940	A/Texas/1/1977	H3N2	1977	human	gi|148340589|gb|ABQ58940| /Human/HA/H3N2/4/USA/1977/// hemagglutinin[Influenza A virus (A/Texas/1/1977(H3N2))]	1977/00/00/
+f0dp255	AAC78098	A/Netherlands/172/96	H3N2	1996	human	gi|3885876|gb|AAC78098| /Human/HA/H3N2/4/Netherlands/1996/// hemagglutinin[Influenza A virus (A/Netherlands/172/96(H3N2))]	1996/00/00/
+f0dp256	ABQ58928	A/Bangkok/2/1979	H3N2	1979	human	gi|148340565|gb|ABQ58928| /Human/HA/H3N2/4/Thailand/1979/// hemagglutinin[Influenza A virus (A/Bangkok/2/1979(H3N2))]	1979/00/00/
+f0dp257	AAB69838	A/Christchurch/4/1985	H3N2	1985	human	gi|2275533|gb|AAB69838| /Human/HA/H3N2/4/New Zealand/1985/// hemagglutinin[Influenza A virus (A/Christchurch/4/1985(H3N2))]	1985/00/00/
+f0dp258	AAB66725	A/Hong Kong/34/1990	H3N2	1990	human	gi|2271041|gb|AAB66725| /Human/HA/H3N2/4/Hong Kong/1990/// hemagglutinin[Influenza A virus (A/Hong Kong/34/1990(H3N2))]	1990/00/00/
