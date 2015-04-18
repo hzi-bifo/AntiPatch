@@ -8,7 +8,8 @@ This folder contains the data used for the evaluation phylogeny inferred from 7,
 
 ### H3_PatchInference
 
-This folder contains the data (phylogenetic tree, alignment, antigenic weights) used to infer antigenic patches on the surface of the hemagglutinin protein.
+This folder contains the data (phylogenetic tree, alignment, antigenic weights) used to infer antigenic patches on the surface of the hemagglutinin protein. The collection comprised 258 seasonal human in-
+fluenza A (H3N2) virus isolates from 1968 to 2003.
 
 ### Patches
 
