@@ -1,13 +1,7 @@
 Antigenic Tree Inference and Antigenic Weights Calculation
 ----------------------------------------------------------
 
-More information on data here!
-
-NEEDS TO BE UPTADED!
-
-
-Amino Acid Alignment is aa.aln
-Phylogenetic Tree is phyloTree.phy
-(raw data) Antigenic weights is antigenicWeights_raw_data.dat
-Antigenic weights for input to antipatch is in input_antipatch/oneValue.onlyInternal
-PDB-files are in input_antipatch/*.pdb
+Amino Acid Alignment is smith_aa.aln
+Amino Acid Alignment is smith_cds.aln
+Phylogenetic Tree is phylogeny.tre
+Antigenic weights for input to antipatch is in oneValue.onlyInternal (published in (Steinbrück McHardy 2012))
