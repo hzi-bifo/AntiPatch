@@ -12,4 +12,4 @@ This folder contains the data (phylogenetic tree, alignment, antigenic weights) 
 
 ### Patches
 
-This folder contains an executable to run the AntiPatch software, two bash scripts, the test data and evaluation data. 
+This folder contains an executable and a bash script to run the AntiPatch software, the test data and evaluation data. 
