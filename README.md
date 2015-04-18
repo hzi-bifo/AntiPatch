@@ -13,3 +13,7 @@ This folder contains the data (phylogenetic tree, alignment, antigenic weights) 
 ### Patches
 
 This folder contains an executable and a bash script to run the AntiPatch software, the test data and evaluation data. 
+
+### Figures_Tables
+
+This folder contains all figures and table from our manuscript.
